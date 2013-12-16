@@ -1,0 +1,21 @@
+20131209  14              26025000                 
+1         122013          INTERFASE NOMINA MES 12  1365950200D500000        H              80409653          INTERFAZ COMPROBANTE 1 MATRICULA                                
+1         122013          INTERFASE NOMINA MES 12  2365700100S6250          H                                INTERFAZ COMPROBANTE 1                                          
+1         122013          INTERFASE NOMINA MES 12  5110950100S4875000       S1000ABJ001                      INTERFAZ COMPROBANTE 1                            01ROT-ABJ001  
+1         122013          INTERFASE NOMINA MES 12  5110950100S4875000       S1000ABJ003                      INTERFAZ COMPROBANTE 1                            02ROT-ABJ003  
+1         122013          INTERFASE NOMINA MES 12  2365700100S3750          H                                INTERFAZ COMPROBANTE 1                                          
+1         122013          INTERFASE NOMINA MES 12  5110950100S5238750       S1000ABJ001                      INTERFAZ COMPROBANTE 1                            01ROT-ABJ001  
+1         122013          INTERFASE NOMINA MES 12  5110950100S5238750       S1000ABJ010                      INTERFAZ COMPROBANTE 1                            02ROT-ABJ010  
+1         122013          INTERFASE NOMINA MES 12  5110950100S5397500       S1000ABK053                      INTERFAZ COMPROBANTE 1                            03ROT-ABK053  
+1         122013          INTERFASE NOMINA MES 12  2368010500S94185         H                                INTERFAZ COMPROBANTE 1                                          
+1         122013          INTERFASE NOMINA MES 12  1380959900 150000        H                                INTERFAZ COMPROBANTE 1                                          
+1         122013          INTERFASE NOMINA MES 12  2365150100S1558139       H                                INTERFAZ COMPROBANTE 1                                          
+1         122013          INTERFASE NOMINA MES 12  4295330100S750000        H1000ABJ001                      INTERFAZ COMPROBANTE 1                            01ROT-ABJ001  
+1         122013          INTERFASE NOMINA MES 12  4295330100S750000        H1000ABJ003                      INTERFAZ COMPROBANTE 1                            02ROT-ABJ003  
+1         122013          INTERFASE NOMINA MES 12  2368010500S153353        H                                INTERFAZ COMPROBANTE 1                                          
+1         122013          INTERFASE NOMINA MES 12  5155050100S125000        S1000ABJ001                      INTERFAZ COMPROBANTE 1                            01ROT-ABJ001  
+1         122013          INTERFASE NOMINA MES 12  5155050100S125000        S1000ABJ003                      INTERFAZ COMPROBANTE 1                            02ROT-ABJ003  
+1         122013          INTERFASE NOMINA MES 12  2365150100S2536971       H                                INTERFAZ COMPROBANTE 1                                          
+1         122013          INTERFASE NOMINA MES 12  5155050100S75000         S1000ABJ001                      INTERFAZ COMPROBANTE 1                            01ROT-ABJ001  
+1         122013          INTERFASE NOMINA MES 12  5155050100S75000         S1000ABJ003                      INTERFAZ COMPROBANTE 1                            02ROT-ABJ003  
+1         122013          INTERFASE NOMINA MES 12  1380959900 600000        H                                INTERFAZ COMPROBANTE 1                                          
